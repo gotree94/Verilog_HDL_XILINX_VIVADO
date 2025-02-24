@@ -1,0 +1,1 @@
+-wto "c62e48b9eb0645bd8c5b435bb9764ed8" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_daisy_chain_sensor_behav" "xil_defaultlib.tb_daisy_chain_sensor" "xil_defaultlib.glbl" -log "elaborate.log" 

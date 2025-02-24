@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"counter_4bit_tb_time_impl.v" \
+"../../../../../counter_4bit.srcs/sim_1/new/counter_4bit_tb.v" \
+
+# Do not sort compile order
+nosort
